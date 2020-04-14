@@ -1,4 +1,5 @@
 function saturdayFun(activity="roller-skate") {
+<<<<<<< HEAD
   return(`This Saturday, I want to ${activity}!`);
 }
 
@@ -33,6 +34,11 @@ function actionApplyer(start, array) {
     }
     return start
 } 
+=======
+  console.log(`This Saturday, I want to ${activity}!`);
+}
+saturdayFun()
+>>>>>>> 89e0525c958c3ab78bb49a04e8d8a89f8133c68c
 
 
 
